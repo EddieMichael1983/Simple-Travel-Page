@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <style>
+        h1 { color: rgb(255, 0, 0);}
+         #travel-heading {background-color: yellow;}
+        
+        h2 { color: rgb(245, 118, 0);}
+         #second-heading {background-color: rgb(124, 235, 252);}
+        ul {color: rgb(0, 125, 23);}
+        .list-items {background-color: rgb(255, 173, 248);}
+        
+    </style>
+    <body>
+    
+        <h1 id="travel-heading">Explosive <em>Kilauea!!!</em></h1> 
+        <img src = "https://www.kasandbox.org/programming-images/landscapes/lava.png">
+        
+        <h2 id = "second-heading">The most active of Hawaii's Volcanoes!</h2>
+        <ul class="list-items">
+        <li>Over 200,000 years old.
+        <li>Erupted continuously for nearly 35 years.  
+        <li>Ranked first among volcanoes in the United States most likely to threaten lives and infrastructure.
+        </ul>
+        <p>Kilauea has been a tourist attraction since the 1840s. Today, tourism is driven by the island's exotic tropical locations. Kilauea being one of the few volcanoes in a more or less constant state of moderate eruption, has been a major part of the island's tourist draw. Until its closure on May 11 due to the danger and damage associated with the 2018 Lower East Rift Zone and summit events, Kilauea was visited by roughly 2.6 million people annually, most of whom proceeded to visit the volcano from the Kilauea Visitor Center near the park entrance.
+        
+        <h1 id="travel-heading">Punalu-U Beach!</h1>
+        
+        <img src = "https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png">
+        
+        <h2 id = "second-heading">The Most Famous Black Sand Beach in Hawai'i</h2>
+        
+        <ul class="list-items">
+        <li>See Hawksbill Turtles and Green Turtles on the Beach
+        <li>Plenty of excellent snorkeling locations nearby
+        <li>Coastal hiking trails
+        </ul>
+        <P>Punaluʻu Beach (also called Black Sand Beach) is a beach between Pāhala and Nāʻālehu on the Big Island of the U.S. state of Hawaii. The beach has black sand made of basalt and created by lava flowing into the ocean which explodes as it reaches the ocean and cools. This volcanic activity is in the Hawaiʻi Volcanoes National Park. Punaluʻu is frequented by endangered hawksbill and green turtles, which can often be seen basking on the black sand.</p>
+          </body>
+</html>
